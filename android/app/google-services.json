@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "988492985998",
+    "project_id": "appproject-a0188",
+    "storage_bucket": "appproject-a0188.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988492985998:android:8a9e22eda4845472e2fbdf",
+        "android_client_info": {
+          "package_name": "com.example.fruit_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988492985998-suucvo6533k1hia84g491e0hrl2qv5if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fruit_market",
+            "certificate_hash": "a3e0c84234474ecbe0565fb96733113b35b36698"
+          }
+        },
+        {
+          "client_id": "988492985998-21tqh4668hlg1g4doq5rattp41bcbc1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvq_Y8rmwSPZcrU-SKNruMMKWRr_ge1Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988492985998-21tqh4668hlg1g4doq5rattp41bcbc1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
